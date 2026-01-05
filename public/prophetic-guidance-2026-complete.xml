@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<meta charset='UTF-8'/>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'/>
+<meta http-equiv='X-UA-Compatible' content='IE=edge'/>
+
+<!-- Dynamic Title -->
+<b:if cond='data:blog.pageType == "index"'>
+<title>Prophetic Guidance 2026 - Divine Overflow | Personalized Prophetic Prayers</title>
+<meta name='description' content='Experience 2026: The Year of Divine Overflow. Get personalized prophetic prayers for love attraction, wealth manifestation, and spiritual protection. Transform your life today.'/>
+</b:if>
+<b:if cond='data:blog.pageType == "item"'>
+<title><data:blog.pageName/> | Prophetic Guidance 2026</title>
+<meta expr:content='data:blog.metaDescription ? data:blog.metaDescription : "Discover divine prophetic guidance for 2026. Personalized prayers for love, wealth, and protection."' name='description'/>
+</b:if>
+<b:if cond='data:blog.pageType == "static_page"'>
+<title><data:blog.pageName/> | Prophetic Guidance 2026</title>
+<meta expr:content='data:blog.metaDescription ? data:blog.metaDescription : "Prophetic Guidance 2026 - Your trusted source for spiritual transformation and divine breakthrough."' name='description'/>
+</b:if>
+<b:if cond='data:blog.pageType == "archive"'>
+<title>Archive | Prophetic Guidance 2026</title>
+<meta name='description' content='Browse our archive of prophetic revelations and spiritual guidance for 2026.'/>
+</b:if>
+
+<!-- SEO Meta Tags -->
+<meta name='keywords' content='prophetic guidance 2026, divine overflow, prophetic prayers, love attraction prayer, wealth manifestation, spiritual protection, breakthrough prayers, prophetic revelations'/>
+<meta name='author' content='Prophetic Guidance Ministry'/>
+<meta name='robots' content='index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'/>
+<link rel='canonical' expr:href='data:blog.canonicalUrl'/>
+
+<!-- Open Graph Meta Tags -->
+<meta property='og:site_name' content='Prophetic Guidance 2026'/>
+<meta property='og:type' content='website'/>
+<b:if cond='data:blog.pageType == "index"'>
+<meta property='og:title' content='Prophetic Guidance 2026 - The Year of Divine Overflow'/>
+<meta property='og:description' content='Personalized prophetic prayers for love attraction, wealth manifestation, and spiritual protection. Your divine breakthrough awaits.'/>
+</b:if>
+<b:if cond='data:blog.pageType == "item"'>
+<meta expr:content='data:blog.pageName' property='og:title'/>
+<meta expr:content='data:blog.metaDescription' property='og:description'/>
+</b:if>
+<meta expr:content='data:blog.canonicalUrl' property='og:url'/>
+<meta property='og:image' content='https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&amp;h=630&amp;fit=crop'/>
+<meta property='og:image:width' content='1200'/>
+<meta property='og:image:height' content='630'/>
+<meta property='og:locale' content='en_US'/>
+
+<!-- Twitter Card Meta Tags -->
+<meta name='twitter:card' content='summary_large_image'/>
+<meta name='twitter:title' expr:content='data:blog.pageTitle'/>
+<meta name='twitter:description' expr:content='data:blog.metaDescription ? data:blog.metaDescription : "Prophetic Guidance 2026 - Divine prayers for love, wealth, and protection."'/>
+<meta name='twitter:image' content='https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&amp;h=630&amp;fit=crop'/>
+
+<!-- Favicon -->
+<link rel='icon' type='image/png' href='https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=32&amp;h=32&amp;fit=crop'/>
+<link rel='apple-touch-icon' href='https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=180&amp;h=180&amp;fit=crop'/>
+
+<!-- Google Fonts -->
+<link rel='preconnect' href='https://fonts.googleapis.com'/>
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin='anonymous'/>
+<link href='https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700;900&amp;family=Poppins:wght@300;400;500;600;700&amp;display=swap' rel='stylesheet'/>
+
+<!-- Schema.org Structured Data - WebSite -->
+<b:if cond='data:blog.pageType == "index"'>
+<script type='application/ld+json'>
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Prophetic Guidance 2026",
+  "alternateName": "Divine Overflow Ministry",
+  "url": "<data:blog.canonicalHomepageUrl/>",
+  "description": "Personalized prophetic prayers for love attraction, wealth manifestation, and spiritual protection. Experience 2026: The Year of Divine Overflow.",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "<data:blog.canonicalHomepageUrl/>search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Prophetic Guidance Ministry",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&amp;h=60&amp;fit=crop"
+    }
+  }
+}
+</script>
+<script type='application/ld+json'>
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Prophetic Guidance 2026",
+  "description": "15 Divine Prophetic Revelations for spiritual transformation in 2026",
+  "url": "<data:blog.canonicalHomepageUrl/>",
+  "blogPost": []
+}
+</script>
+</b:if>
+
+<!-- Schema.org - Article (for post pages) -->
+<b:if cond='data:blog.pageType == "item"'>
+<script type='application/ld+json'>
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "<data:blog.pageName/>",
+  "description": "<data:blog.metaDescription/>",
+  "image": "<data:blog.postImageUrl/>",
+  "author": {
+    "@type": "Person",
+    "name": "Prophet Samuel",
+    "url": "<data:blog.canonicalHomepageUrl/>p/about-us.html"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Prophetic Guidance Ministry",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&amp;h=60&amp;fit=crop"
+    }
+  },
+  "datePublished": "<data:post.date.iso8601/>",
+  "dateModified": "<data:post.lastUpdated.iso8601/>",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "<data:blog.canonicalUrl/>"
+  }
+}
+</script>
+</b:if>
+
+<!-- Schema.org - Organization (Footer) -->
+<script type='application/ld+json'>
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Prophetic Guidance Ministry",
+  "alternateName": "Prophetic Guidance 2026",
+  "url": "<data:blog.canonicalHomepageUrl/>",
+  "logo": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&amp;h=60&amp;fit=crop",
+  "description": "Providing personalized prophetic prayers and spiritual guidance for divine breakthrough.",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+216-93816607",
+    "contactType": "customer service",
+    "availableLanguage": ["English", "French", "Arabic"]
+  },
+  "sameAs": []
+}
+</script>
+
+<!-- Critical CSS - Inlined for Performance -->
+<style type='text/css'>
+/*<![CDATA[*/
+/* CSS Reset & Base Styles */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{--primary:#8B5A2B;--primary-light:#A0694E;--primary-dark:#6B4423;--secondary:#D4AF37;--secondary-light:#E4C04D;--accent:#FFD700;--background:#f8f5f0;--background-alt:#FFF8E7;--text:#333333;--text-light:#666666;--text-muted:#888888;--white:#FFFFFF;--shadow:0 4px 20px rgba(139,90,43,0.15);--shadow-lg:0 10px 40px rgba(139,90,43,0.2);--radius:12px;--radius-lg:20px;--transition:all 0.3s ease}
+html{scroll-behavior:smooth;font-size:16px}
+body{font-family:'Poppins',sans-serif;background:var(--background);color:var(--text);line-height:1.7;overflow-x:hidden}
+h1,h2,h3,h4,h5,h6{font-family:'Merriweather',serif;font-weight:700;line-height:1.3;color:var(--primary-dark)}
+h1{font-size:clamp(2rem,5vw,3.5rem)}
+h2{font-size:clamp(1.5rem,4vw,2.5rem)}
+h3{font-size:clamp(1.2rem,3vw,1.8rem)}
+p{margin-bottom:1rem}
+a{color:var(--primary);text-decoration:none;transition:var(--transition)}
+a:hover{color:var(--secondary)}
+img{max-width:100%;height:auto;display:block}
+
+/* Container */
+.container{width:100%;max-width:1200px;margin:0 auto;padding:0 20px}
+@media(min-width:768px){.container{padding:0 40px}}
+
+/* Header & Navigation */
+.header{background:linear-gradient(135deg,var(--primary-dark) 0%,var(--primary) 100%);padding:15px 0;position:fixed;top:0;left:0;right:0;z-index:1000;box-shadow:var(--shadow)}
+.header-inner{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:15px}
+.logo{display:flex;align-items:center;gap:12px}
+.logo-icon{width:45px;height:45px;background:linear-gradient(135deg,var(--secondary),var(--accent));border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:24px;box-shadow:0 4px 15px rgba(212,175,55,0.4)}
+.logo-text{font-family:'Merriweather',serif;font-size:1.3rem;font-weight:700;color:var(--white)}
+.logo-tagline{font-size:0.75rem;color:var(--secondary-light);font-weight:300}
+
+/* Mobile Menu Toggle */
+.menu-toggle{display:flex;flex-direction:column;gap:5px;background:none;border:none;cursor:pointer;padding:10px}
+.menu-toggle span{width:25px;height:3px;background:var(--white);border-radius:3px;transition:var(--transition)}
+@media(min-width:900px){.menu-toggle{display:none}}
+
+/* Navigation */
+.nav{display:none;width:100%;padding-top:15px}
+.nav.active{display:block}
+@media(min-width:900px){.nav{display:flex!important;width:auto;padding-top:0}}
+.nav-list{list-style:none;display:flex;flex-direction:column;gap:0}
+@media(min-width:900px){.nav-list{flex-direction:row;gap:8px}}
+.nav-list a{display:block;padding:12px 18px;color:var(--white);font-weight:500;font-size:0.95rem;border-radius:var(--radius);transition:var(--transition)}
+.nav-list a:hover,.nav-list a.active{background:rgba(255,255,255,0.15);color:var(--accent)}
+
+/* Hero Section */
+.hero{min-height:100vh;background:linear-gradient(135deg,rgba(107,68,35,0.95) 0%,rgba(139,90,43,0.9) 50%,rgba(160,105,78,0.85) 100%),url('https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1920&amp;q=80') center/cover no-repeat;display:flex;align-items:center;justify-content:center;text-align:center;padding:120px 20px 80px;position:relative;overflow:hidden}
+.hero::before{content:'';position:absolute;top:0;left:0;right:0;bottom:0;background:radial-gradient(circle at 30% 40%,rgba(212,175,55,0.1) 0%,transparent 50%);pointer-events:none}
+.hero-content{max-width:900px;position:relative;z-index:2}
+.hero-badge{display:inline-block;background:linear-gradient(135deg,var(--secondary),var(--accent));color:var(--primary-dark);padding:10px 25px;border-radius:50px;font-size:0.9rem;font-weight:600;margin-bottom:25px;box-shadow:0 4px 20px rgba(212,175,55,0.4);text-transform:uppercase;letter-spacing:1px}
+.hero h1{color:var(--white);margin-bottom:20px;text-shadow:2px 4px 20px rgba(0,0,0,0.3)}
+.hero-subtitle{font-size:clamp(1.1rem,2.5vw,1.4rem);color:rgba(255,255,255,0.9);max-width:700px;margin:0 auto 35px;line-height:1.8}
+.hero-features{display:flex;flex-wrap:wrap;justify-content:center;gap:20px;margin-bottom:40px}
+.hero-feature{display:flex;align-items:center;gap:10px;color:var(--white);font-size:0.95rem}
+.hero-feature-icon{width:24px;height:24px;background:var(--secondary);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:12px}
+
+/* Buttons */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:16px 36px;font-family:'Poppins',sans-serif;font-size:1rem;font-weight:600;text-transform:uppercase;letter-spacing:1px;border:none;border-radius:50px;cursor:pointer;transition:var(--transition);text-decoration:none}
+.btn-primary{background:linear-gradient(135deg,var(--secondary),var(--accent));color:var(--primary-dark);box-shadow:0 6px 25px rgba(212,175,55,0.4)}
+.btn-primary:hover{transform:translateY(-3px);box-shadow:0 10px 35px rgba(212,175,55,0.5);color:var(--primary-dark)}
+.btn-secondary{background:transparent;border:2px solid var(--white);color:var(--white)}
+.btn-secondary:hover{background:var(--white);color:var(--primary)}
+.btn-whatsapp{background:linear-gradient(135deg,#25D366,#128C7E);color:var(--white);box-shadow:0 6px 25px rgba(37,211,102,0.3)}
+.btn-whatsapp:hover{transform:translateY(-3px);box-shadow:0 10px 35px rgba(37,211,102,0.4)}
+
+/* Section Styles */
+section{padding:80px 0}
+@media(min-width:768px){section{padding:100px 0}}
+.section-header{text-align:center;max-width:700px;margin:0 auto 60px}
+.section-badge{display:inline-block;background:linear-gradient(135deg,var(--secondary),var(--accent));color:var(--primary-dark);padding:8px 20px;border-radius:50px;font-size:0.8rem;font-weight:600;margin-bottom:15px;text-transform:uppercase;letter-spacing:1px}
+.section-title{margin-bottom:15px}
+.section-subtitle{color:var(--text-light);font-size:1.1rem}
+
+/* Trust Section - Testimonials */
+.trust-section{background:var(--background-alt)}
+.testimonials-grid{display:grid;grid-template-columns:1fr;gap:30px}
+@media(min-width:768px){.testimonials-grid{grid-template-columns:repeat(2,1fr)}}
+.testimonial-card{background:var(--white);border-radius:var(--radius-lg);padding:35px;box-shadow:var(--shadow);position:relative;border:1px solid rgba(212,175,55,0.2)}
+.testimonial-card::before{content:'"';position:absolute;top:20px;right:30px;font-size:80px;font-family:'Merriweather',serif;color:var(--secondary);opacity:0.2;line-height:1}
+.testimonial-header{display:flex;align-items:center;gap:15px;margin-bottom:20px}
+.testimonial-avatar{width:60px;height:60px;border-radius:50%;object-fit:cover;border:3px solid var(--secondary)}
+.testimonial-author{flex:1}
+.testimonial-name{font-weight:700;color:var(--primary-dark);font-size:1.1rem}
+.testimonial-location{color:var(--text-muted);font-size:0.9rem}
+.testimonial-badge{background:linear-gradient(135deg,var(--secondary),var(--accent));color:var(--primary-dark);padding:5px 12px;border-radius:20px;font-size:0.75rem;font-weight:600}
+.testimonial-content{margin-bottom:20px}
+.testimonial-challenge{background:rgba(139,90,43,0.05);border-left:4px solid var(--primary);padding:15px;border-radius:0 var(--radius) var(--radius) 0;margin-bottom:15px}
+.testimonial-challenge strong{color:var(--primary-dark);display:block;margin-bottom:5px;font-size:0.85rem;text-transform:uppercase;letter-spacing:0.5px}
+.testimonial-result{background:rgba(37,211,102,0.08);border-left:4px solid #25D366;padding:15px;border-radius:0 var(--radius) var(--radius) 0}
+.testimonial-result strong{color:#128C7E;display:block;margin-bottom:5px;font-size:0.85rem;text-transform:uppercase;letter-spacing:0.5px}
+.testimonial-date{display:flex;align-items:center;gap:8px;color:var(--secondary);font-weight:600;font-size:0.9rem;margin-top:15px}
+.more-testimonials{text-align:center;margin-top:40px}
+
+/* Revelations Grid */
+.revelations-section{background:linear-gradient(180deg,var(--background) 0%,var(--background-alt) 100%)}
+.revelations-grid{display:grid;grid-template-columns:1fr;gap:25px}
+@media(min-width:600px){.revelations-grid{grid-template-columns:repeat(2,1fr)}}
+@media(min-width:900px){.revelations-grid{grid-template-columns:repeat(3,1fr)}}
+.revelation-card{background:var(--white);border-radius:var(--radius-lg);overflow:hidden;box-shadow:var(--shadow);transition:var(--transition);display:flex;flex-direction:column}
+.revelation-card:hover{transform:translateY(-8px);box-shadow:var(--shadow-lg)}
+.revelation-image{position:relative;height:200px;overflow:hidden}
+.revelation-image img{width:100%;height:100%;object-fit:cover;transition:var(--transition)}
+.revelation-card:hover .revelation-image img{transform:scale(1.1)}
+.revelation-category{position:absolute;top:15px;left:15px;background:linear-gradient(135deg,var(--secondary),var(--accent));color:var(--primary-dark);padding:6px 14px;border-radius:20px;font-size:0.75rem;font-weight:600;text-transform:uppercase;letter-spacing:0.5px}
+.revelation-content{padding:25px;flex:1;display:flex;flex-direction:column}
+.revelation-title{font-size:1.15rem;margin-bottom:12px;color:var(--primary-dark);line-height:1.4}
+.revelation-excerpt{color:var(--text-light);font-size:0.95rem;margin-bottom:20px;flex:1;line-height:1.6}
+.revelation-link{display:inline-flex;align-items:center;gap:8px;color:var(--primary);font-weight:600;font-size:0.9rem;text-transform:uppercase;letter-spacing:0.5px}
+.revelation-link:hover{color:var(--secondary);gap:12px}
+
+/* Services Section */
+.services-section{background:linear-gradient(135deg,var(--primary-dark) 0%,var(--primary) 100%);color:var(--white)}
+.services-section .section-badge{background:rgba(255,255,255,0.2);color:var(--white)}
+.services-section .section-title{color:var(--white)}
+.services-section .section-subtitle{color:rgba(255,255,255,0.8)}
+.services-grid{display:grid;grid-template-columns:1fr;gap:30px}
+@media(min-width:768px){.services-grid{grid-template-columns:repeat(3,1fr)}}
+.service-card{background:rgba(255,255,255,0.1);backdrop-filter:blur(10px);border-radius:var(--radius-lg);padding:40px 30px;text-align:center;border:1px solid rgba(255,255,255,0.2);transition:var(--transition)}
+.service-card:hover{background:rgba(255,255,255,0.15);transform:translateY(-5px)}
+.service-icon{width:80px;height:80px;background:linear-gradient(135deg,var(--secondary),var(--accent));border-radius:50%;margin:0 auto 25px;display:flex;align-items:center;justify-content:center;font-size:36px;box-shadow:0 10px 30px rgba(212,175,55,0.3)}
+.service-title{font-size:1.4rem;margin-bottom:15px;color:var(--white)}
+.service-description{color:rgba(255,255,255,0.85);margin-bottom:25px;font-size:0.95rem;line-height:1.7}
+.service-price{font-size:2.5rem;font-weight:700;color:var(--accent);margin-bottom:25px}
+.service-price span{font-size:1rem;font-weight:400;opacity:0.8}
+.service-features{list-style:none;margin-bottom:30px;text-align:left}
+.service-features li{padding:8px 0;color:rgba(255,255,255,0.9);font-size:0.9rem;display:flex;align-items:center;gap:10px}
+.service-features li::before{content:'✓';color:var(--accent);font-weight:bold}
+
+/* CTA Section */
+.cta-section{background:var(--background-alt);text-align:center;padding:100px 20px}
+.cta-content{max-width:700px;margin:0 auto}
+.cta-title{margin-bottom:20px}
+.cta-text{color:var(--text-light);font-size:1.1rem;margin-bottom:35px}
+.cta-buttons{display:flex;flex-wrap:wrap;justify-content:center;gap:20px}
+
+/* Footer */
+.footer{background:var(--primary-dark);color:var(--white);padding:80px 0 30px}
+.footer-grid{display:grid;grid-template-columns:1fr;gap:40px;margin-bottom:50px}
+@media(min-width:600px){.footer-grid{grid-template-columns:repeat(2,1fr)}}
+@media(min-width:900px){.footer-grid{grid-template-columns:repeat(4,1fr)}}
+.footer-col h4{font-size:1.2rem;margin-bottom:20px;color:var(--secondary);font-family:'Merriweather',serif}
+.footer-about{color:rgba(255,255,255,0.8);font-size:0.95rem;line-height:1.8}
+.footer-links{list-style:none}
+.footer-links li{margin-bottom:12px}
+.footer-links a{color:rgba(255,255,255,0.8);font-size:0.95rem;transition:var(--transition)}
+.footer-links a:hover{color:var(--accent);padding-left:5px}
+.footer-services{list-style:none}
+.footer-services li{color:rgba(255,255,255,0.8);padding:8px 0;font-size:0.95rem;display:flex;align-items:center;gap:10px}
+.footer-services li::before{content:'→';color:var(--secondary)}
+.footer-contact p{color:rgba(255,255,255,0.8);margin-bottom:12px;font-size:0.95rem;display:flex;align-items:center;gap:10px}
+.footer-bottom{border-top:1px solid rgba(255,255,255,0.1);padding-top:30px;text-align:center;color:rgba(255,255,255,0.6);font-size:0.9rem}
+.footer-bottom a{color:var(--secondary)}
+
+/* Post/Page Content Styles */
+.content-wrapper{padding-top:100px;min-height:100vh}
+.content-main{max-width:800px;margin:0 auto;padding:60px 20px}
+.post-header{text-align:center;margin-bottom:50px}
+.post-category{display:inline-block;background:linear-gradient(135deg,var(--secondary),var(--accent));color:var(--primary-dark);padding:8px 20px;border-radius:50px;font-size:0.8rem;font-weight:600;margin-bottom:20px;text-transform:uppercase;letter-spacing:1px}
+.post-title{margin-bottom:20px}
+.post-meta{display:flex;justify-content:center;align-items:center;gap:20px;color:var(--text-muted);font-size:0.9rem;flex-wrap:wrap}
+.post-featured-image{width:100%;max-height:500px;object-fit:cover;border-radius:var(--radius-lg);margin-bottom:40px}
+.post-content{font-size:1.1rem;line-height:1.9}
+.post-content h2{margin:40px 0 20px;padding-bottom:10px;border-bottom:2px solid var(--secondary)}
+.post-content h3{margin:30px 0 15px}
+.post-content p{margin-bottom:20px}
+.post-content ul,.post-content ol{margin:20px 0;padding-left:30px}
+.post-content li{margin-bottom:10px}
+.post-content blockquote{background:var(--background-alt);border-left:4px solid var(--secondary);padding:25px 30px;margin:30px 0;font-style:italic;font-size:1.15rem;color:var(--primary-dark)}
+.post-content img{border-radius:var(--radius);margin:30px 0}
+
+/* FAQ Accordion */
+.faq-section{max-width:800px;margin:0 auto}
+.faq-item{background:var(--white);border-radius:var(--radius);margin-bottom:15px;box-shadow:var(--shadow);overflow:hidden}
+.faq-question{width:100%;padding:25px 30px;background:none;border:none;text-align:left;cursor:pointer;font-family:'Poppins',sans-serif;font-size:1.05rem;font-weight:600;color:var(--primary-dark);display:flex;justify-content:space-between;align-items:center;transition:var(--transition)}
+.faq-question:hover{background:var(--background-alt)}
+.faq-question::after{content:'+';font-size:1.5rem;color:var(--secondary);transition:var(--transition)}
+.faq-item.active .faq-question::after{transform:rotate(45deg)}
+.faq-answer{padding:0 30px 25px;color:var(--text-light);line-height:1.8;display:none}
+.faq-item.active .faq-answer{display:block}
+
+/* Page Specific Styles */
+.page-header{background:linear-gradient(135deg,var(--primary-dark),var(--primary));padding:150px 20px 80px;text-align:center}
+.page-header h1{color:var(--white);margin-bottom:15px}
+.page-header p{color:rgba(255,255,255,0.85);font-size:1.1rem;max-width:600px;margin:0 auto}
+
+/* Sidebar */
+.sidebar{background:var(--background-alt);padding:30px;border-radius:var(--radius-lg)}
+.sidebar-widget{margin-bottom:35px}
+.sidebar-widget h4{font-size:1.1rem;color:var(--primary-dark);margin-bottom:20px;padding-bottom:10px;border-bottom:2px solid var(--secondary)}
+.sidebar-widget ul{list-style:none}
+.sidebar-widget ul li{padding:10px 0;border-bottom:1px solid rgba(139,90,43,0.1)}
+.sidebar-widget ul li a{color:var(--text);font-size:0.95rem}
+.sidebar-widget ul li a:hover{color:var(--primary)}
+
+/* Utility Classes */
+.text-center{text-align:center}
+.text-gold{color:var(--secondary)}
+.bg-alt{background:var(--background-alt)}
+.mb-0{margin-bottom:0}
+.mt-4{margin-top:40px}
+
+/* Animations */
+@keyframes fadeInUp{from{opacity:0;transform:translateY(30px)}to{opacity:1;transform:translateY(0)}}
+.animate-fade-in-up{animation:fadeInUp 0.8s ease forwards}
+
+/* Print Styles */
+@media print{.header,.footer,.btn,.nav{display:none!important}.content-main{padding:20px}}
+/*]]>*/
+</style>
+
+<b:skin><![CDATA[
+/* Blogger Skin - Required for template validation */
+]]></b:skin>
+</head>
+<body>
+
+<!-- HEADER & NAVIGATION -->
+<header class='header'>
+<div class='container header-inner'>
+<a class='logo' href='/'>
+<div class='logo-icon'>✝</div>
+<div>
+<div class='logo-text'>Prophetic Guidance</div>
+<div class='logo-tagline'>2026 - Year of Divine Overflow</div>
+</div>
+</a>
+<button aria-label='Toggle Menu' class='menu-toggle' onclick='this.nextElementSibling.classList.toggle("active")'>
+<span></span><span></span><span></span>
+</button>
+<nav class='nav'>
+<ul class='nav-list'>
+<li><a href='/'>Home</a></li>
+<li><a href='/p/about-us.html'>Our Story</a></li>
+<li><a href='/search/label/Revelations'>Revelations</a></li>
+<li><a href='/p/testimonials.html'>Testimonials</a></li>
+<li><a href='/p/faq.html'>FAQ</a></li>
+<li><a href='/p/contact.html'>Contact</a></li>
+</ul>
+</nav>
+</div>
+</header>
+
+<!-- MAIN CONTENT SECTIONS -->
+<b:section class='main-section' id='main' maxwidgets='1' showaddelement='no'>
+<b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='2'>
+<b:includable id='main'>
+
+<!-- ============================================ -->
+<!-- HOMEPAGE VIEW -->
+<!-- ============================================ -->
+<b:if cond='data:blog.pageType == "index"'>
+
+<!-- HERO SECTION -->
+<section class='hero'>
+<div class='hero-content animate-fade-in-up'>
+<span class='hero-badge'>✨ Prophetic Word for 2026</span>
+<h1>2026: The Year of Divine Overflow</h1>
+<p class='hero-subtitle'>Personalized Prophetic Prayers for Love Attraction, Wealth Manifestation, and Spiritual Protection. Your spiritual alignment determines your material reality.</p>
+<div class='hero-features'>
+<div class='hero-feature'><span class='hero-feature-icon'>♥</span> Love Attraction</div>
+<div class='hero-feature'><span class='hero-feature-icon'>$</span> Wealth Manifestation</div>
+<div class='hero-feature'><span class='hero-feature-icon'>🛡</span> Divine Protection</div>
+</div>
+<div class='cta-buttons'>
+<a class='btn btn-primary' href='https://wa.me/21693816607?text=I%20want%20to%20order%20my%20Miracle%20Prayer'>Order Your Miracle Prayer Now</a>
+<a class='btn btn-secondary' href='/p/about-us.html'>Learn Our Story</a>
+</div>
+</div>
+</section>
+
+<!-- TRUST/TESTIMONIALS SECTION -->
+<section class='trust-section'>
+<div class='container'>
+<div class='section-header'>
+<span class='section-badge'>Real Breakthroughs</span>
+<h2 class='section-title'>Real Stories of Spiritual Alignment</h2>
+<p class='section-subtitle'>Authentic testimonies from people who experienced divine transformation through focused prophetic intercession.</p>
+</div>
+<div class='testimonials-grid'>
+
+<!-- Testimonial 1 -->
+<div class='testimonial-card'>
+<div class='testimonial-header'>
+<img alt='Mark R. testimonial avatar' class='testimonial-avatar' loading='lazy' src='https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&amp;h=120&amp;fit=crop&amp;crop=face'/>
+<div class='testimonial-author'>
+<div class='testimonial-name'>Mark R.</div>
+<div class='testimonial-location'>Entrepreneur, Phoenix, USA</div>
+</div>
+<span class='testimonial-badge'>Verified</span>
+</div>
+<div class='testimonial-content'>
+<div class='testimonial-challenge'>
+<strong>The Challenge:</strong>
+Despite running a profitable consulting business, I experienced chronic financial "leaks" – unexpected expenses, clients who delayed payments, and investments that never materialized. It felt like invisible hands were draining my success.
+</div>
+<p>After discovering Prophetic Guidance through a colleague, I underwent a 7-day focused Wealth Intercession prayer program. Prophet Samuel identified specific spiritual blockages tied to generational patterns.</p>
+<div class='testimonial-result'>
+<strong>The Breakthrough:</strong>
+Within 3 weeks, a former client unexpectedly returned with a $47,000 project. More importantly, the "leak" pattern stopped. I've maintained consistent growth for 8 months now.
+</div>
+</div>
+<div class='testimonial-date'>📅 Breakthrough Received: March 2025</div>
+</div>
+
+<!-- Testimonial 2 -->
+<div class='testimonial-card'>
+<div class='testimonial-header'>
+<img alt='Amara K. testimonial avatar' class='testimonial-avatar' loading='lazy' src='https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=120&amp;h=120&amp;fit=crop&amp;crop=face'/>
+<div class='testimonial-author'>
+<div class='testimonial-name'>Amara K.</div>
+<div class='testimonial-location'>Nurse, London, UK</div>
+</div>
+<span class='testimonial-badge'>Verified</span>
+</div>
+<div class='testimonial-content'>
+<div class='testimonial-challenge'>
+<strong>The Challenge:</strong>
+At 34, every promising relationship ended the same way – suddenly, without explanation. Friends joked I was "cursed in love." After my fourth engagement fell apart, I felt spiritually attacked.
+</div>
+<p>I was skeptical but desperate. The Love Attraction Prayer program lasted 14 days. Prophet Samuel prayed specifically for the removal of relationship blockages and for my heart to be aligned with divine timing.</p>
+<div class='testimonial-result'>
+<strong>The Breakthrough:</strong>
+Five months later, I reconnected with someone from my past – a connection that had never felt "right" before. We're now engaged, and this relationship feels different at its core. Peaceful. Aligned.
+</div>
+</div>
+<div class='testimonial-date'>📅 Breakthrough Received: January 2025</div>
+</div>
+
+</div>
+<div class='more-testimonials'>
+<a class='btn btn-primary' href='/p/testimonials.html'>Read More Transformation Stories →</a>
+</div>
+</div>
+</section>
+
+<!-- 15 PROPHETIC REVELATIONS SECTION -->
+<section class='revelations-section'>
+<div class='container'>
+<div class='section-header'>
+<span class='section-badge'>Divine Insights</span>
+<h2 class='section-title'>15 Divine Prophetic Revelations for 2026</h2>
+<p class='section-subtitle'>Sacred insights revealed through prayer and spiritual discernment for your breakthrough year.</p>
+</div>
+<div class='revelations-grid'>
+<b:loop values='data:posts' var='post'>
+<article class='revelation-card'>
+<div class='revelation-image'>
+<b:if cond='data:post.featuredImage'>
+<img expr:alt='data:post.title' expr:src='data:post.featuredImage' loading='lazy'/>
+<b:else/>
+<img alt='Prophetic revelation for 2026' loading='lazy' src='https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&amp;h=400&amp;fit=crop'/>
+</b:if>
+<b:if cond='data:post.labels'>
+<b:loop values='data:post.labels' var='label' index='i'>
+<b:if cond='data:i == 0'>
+<span class='revelation-category'><data:label.name/></span>
+</b:if>
+</b:loop>
+</b:if>
+</div>
+<div class='revelation-content'>
+<h3 class='revelation-title'><a expr:href='data:post.url'><data:post.title/></a></h3>
+<p class='revelation-excerpt'><data:post.snippet/></p>
+<a class='revelation-link' expr:href='data:post.url'>Read Full Revelation →</a>
+</div>
+</article>
+</b:loop>
+</div>
+</div>
+</section>
+
+<!-- SERVICES SECTION -->
+<section class='services-section'>
+<div class='container'>
+<div class='section-header'>
+<span class='section-badge'>Transformation Pathways</span>
+<h2 class='section-title'>Our Prophetic Prayer Services</h2>
+<p class='section-subtitle'>Personalized spiritual intercession tailored to your specific breakthrough needs.</p>
+</div>
+<div class='services-grid'>
+
+<!-- Service 1: Love -->
+<div class='service-card'>
+<div class='service-icon'>♥</div>
+<h3 class='service-title'>Love Attraction Prayer</h3>
+<p class='service-description'>Align your heart's frequency with divine love. Remove invisible blockages preventing true connection and open your spirit to receive lasting, healthy relationships.</p>
+<div class='service-price'>$20 <span>/ session</span></div>
+<ul class='service-features'>
+<li>7-day focused intercession</li>
+<li>Relationship blockage removal</li>
+<li>Heart frequency alignment</li>
+<li>Personal prayer recording</li>
+</ul>
+<a class='btn btn-whatsapp' href='https://wa.me/21693816607?text=I%20want%20Love%20Attraction%20Prayer%20($20)'>Order via WhatsApp</a>
+</div>
+
+<!-- Service 2: Wealth -->
+<div class='service-card'>
+<div class='service-icon'>$</div>
+<h3 class='service-title'>Wealth Manifestation Prayer</h3>
+<p class='service-description'>Break generational financial patterns and remove invisible barriers blocking your prosperity. Open divine channels for abundance to flow into your life.</p>
+<div class='service-price'>$25 <span>/ session</span></div>
+<ul class='service-features'>
+<li>10-day prosperity intercession</li>
+<li>Financial blockage breaking</li>
+<li>Abundance channel opening</li>
+<li>Generational curse reversal</li>
+</ul>
+<a class='btn btn-whatsapp' href='https://wa.me/21693816607?text=I%20want%20Wealth%20Manifestation%20Prayer%20($25)'>Order via WhatsApp</a>
+</div>
+
+<!-- Service 3: Protection -->
+<div class='service-card'>
+<div class='service-icon'>🛡</div>
+<h3 class='service-title'>Spiritual Protection Prayer</h3>
+<p class='service-description'>Create a divine shield around you, your family, and your home. Neutralize negative energies and establish lasting spiritual protection against evil forces.</p>
+<div class='service-price'>$30 <span>/ session</span></div>
+<ul class='service-features'>
+<li>14-day protection covering</li>
+<li>Evil removal &amp; cleansing</li>
+<li>Home &amp; family shielding</li>
+<li>Spiritual warfare prayers</li>
+</ul>
+<a class='btn btn-whatsapp' href='https://wa.me/21693816607?text=I%20want%20Spiritual%20Protection%20Prayer%20($30)'>Order via WhatsApp</a>
+</div>
+
+</div>
+</div>
+</section>
+
+<!-- FINAL CTA SECTION -->
+<section class='cta-section'>
+<div class='cta-content'>
+<span class='section-badge'>Your Breakthrough Awaits</span>
+<h2 class='cta-title'>Don't Navigate Your Spiritual Shift Alone</h2>
+<p class='cta-text'>2026 is prophesied to be a year of unprecedented spiritual movement. Whether you're seeking love, wealth, or protection – personalized prophetic intercession can accelerate your breakthrough.</p>
+<div class='cta-buttons'>
+<a class='btn btn-primary' href='https://wa.me/21693816607?text=I%20need%20guidance%20for%20my%20breakthrough'>Get Personalized Guidance</a>
+<a class='btn btn-secondary' style='border-color:var(--primary);color:var(--primary)' href='/p/faq.html'>Read FAQs First</a>
+</div>
+</div>
+</section>
+
+</b:if>
+<!-- END HOMEPAGE VIEW -->
+
+<!-- ============================================ -->
+<!-- POST (ARTICLE) VIEW -->
+<!-- ============================================ -->
+<b:if cond='data:blog.pageType == "item"'>
+<div class='content-wrapper'>
+<article class='content-main'>
+<b:loop values='data:posts' var='post'>
+<header class='post-header'>
+<b:if cond='data:post.labels'>
+<b:loop values='data:post.labels' var='label' index='i'>
+<b:if cond='data:i == 0'>
+<span class='post-category'><data:label.name/></span>
+</b:if>
+</b:loop>
+</b:if>
+<h1 class='post-title'><data:post.title/></h1>
+<div class='post-meta'>
+<span>By Prophet Samuel</span>
+<span>•</span>
+<span><data:post.date/></span>
+<span>•</span>
+<span><data:post.numComments/> Comments</span>
+</div>
+</header>
+<b:if cond='data:post.featuredImage'>
+<img class='post-featured-image' expr:alt='data:post.title' expr:src='data:post.featuredImage' loading='lazy'/>
+</b:if>
+<div class='post-content'>
+<data:post.body/>
+</div>
+
+<!-- Post CTA -->
+<div class='cta-section' style='margin-top:60px;padding:60px 30px;background:var(--background-alt);border-radius:var(--radius-lg)'>
+<h3 style='margin-bottom:15px'>Ready for Your Personal Breakthrough?</h3>
+<p style='color:var(--text-light);margin-bottom:25px'>Let us pray specifically for your situation. Order your personalized prophetic prayer today.</p>
+<a class='btn btn-primary' href='https://wa.me/21693816607?text=I%20read%20your%20article%20and%20want%20prophetic%20prayer'>Order Your Prayer Now</a>
+</div>
+
+</b:loop>
+</article>
+</div>
+</b:if>
+<!-- END POST VIEW -->
+
+<!-- ============================================ -->
+<!-- STATIC PAGE VIEW -->
+<!-- ============================================ -->
+<b:if cond='data:blog.pageType == "static_page"'>
+<div class='content-wrapper'>
+<div class='page-header'>
+<h1><data:blog.pageName/></h1>
+</div>
+<div class='content-main'>
+<div class='post-content'>
+<data:post.body/>
+</div>
+</div>
+</div>
+</b:if>
+<!-- END STATIC PAGE VIEW -->
+
+<!-- ============================================ -->
+<!-- ARCHIVE/SEARCH VIEW -->
+<!-- ============================================ -->
+<b:if cond='data:blog.pageType == "archive"'>
+<div class='content-wrapper'>
+<div class='page-header'>
+<h1>Archive: <data:blog.pageName/></h1>
+<p>Browse our collection of prophetic revelations and spiritual guidance.</p>
+</div>
+<div class='container' style='padding:60px 20px'>
+<div class='revelations-grid'>
+<b:loop values='data:posts' var='post'>
+<article class='revelation-card'>
+<div class='revelation-image'>
+<b:if cond='data:post.featuredImage'>
+<img expr:alt='data:post.title' expr:src='data:post.featuredImage' loading='lazy'/>
+<b:else/>
+<img alt='Archive post image' loading='lazy' src='https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&amp;h=400&amp;fit=crop'/>
+</b:if>
+</div>
+<div class='revelation-content'>
+<h3 class='revelation-title'><a expr:href='data:post.url'><data:post.title/></a></h3>
+<p class='revelation-excerpt'><data:post.snippet/></p>
+<a class='revelation-link' expr:href='data:post.url'>Read More →</a>
+</div>
+</article>
+</b:loop>
+</div>
+</div>
+</div>
+</b:if>
+<b:if cond='data:blog.searchLabel'>
+<div class='content-wrapper'>
+<div class='page-header'>
+<h1>Category: <data:blog.searchLabel/></h1>
+<p>Explore all revelations in this category.</p>
+</div>
+<div class='container' style='padding:60px 20px'>
+<div class='revelations-grid'>
+<b:loop values='data:posts' var='post'>
+<article class='revelation-card'>
+<div class='revelation-image'>
+<b:if cond='data:post.featuredImage'>
+<img expr:alt='data:post.title' expr:src='data:post.featuredImage' loading='lazy'/>
+<b:else/>
+<img alt='Category post image' loading='lazy' src='https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&amp;h=400&amp;fit=crop'/>
+</b:if>
+</div>
+<div class='revelation-content'>
+<h3 class='revelation-title'><a expr:href='data:post.url'><data:post.title/></a></h3>
+<p class='revelation-excerpt'><data:post.snippet/></p>
+<a class='revelation-link' expr:href='data:post.url'>Read More →</a>
+</div>
+</article>
+</b:loop>
+</div>
+</div>
+</div>
+</b:if>
+<!-- END ARCHIVE VIEW -->
+
+</b:includable>
+</b:widget>
+</b:section>
+
+<!-- FOOTER -->
+<footer class='footer'>
+<div class='container'>
+<div class='footer-grid'>
+
+<!-- Footer Column 1: About -->
+<div class='footer-col'>
+<h4>About Prophetic Guidance</h4>
+<p class='footer-about'>We are a ministry dedicated to providing personalized prophetic prayers and spiritual guidance. Since 2018, we have helped thousands align their spiritual path with divine purpose for breakthrough in love, wealth, and protection.</p>
+</div>
+
+<!-- Footer Column 2: Quick Links -->
+<div class='footer-col'>
+<h4>Quick Links</h4>
+<ul class='footer-links'>
+<li><a href='/'>Home</a></li>
+<li><a href='/p/about-us.html'>Our Story</a></li>
+<li><a href='/p/testimonials.html'>Testimonials</a></li>
+<li><a href='/p/faq.html'>FAQ &amp; Assurance</a></li>
+<li><a href='/p/contact.html'>Contact Us</a></li>
+</ul>
+</div>
+
+<!-- Footer Column 3: Services -->
+<div class='footer-col'>
+<h4>Our Services</h4>
+<ul class='footer-services'>
+<li>Love Attraction Prayer - $20</li>
+<li>Wealth Manifestation Prayer - $25</li>
+<li>Spiritual Protection Prayer - $30</li>
+<li>Custom Prayer Packages</li>
+</ul>
+</div>
+
+<!-- Footer Column 4: Contact -->
+<div class='footer-col'>
+<h4>Contact Us</h4>
+<div class='footer-contact'>
+<p>📱 WhatsApp: +216 93 816 607</p>
+<p>📧 Email: guidance@prophetic2026.com</p>
+<p>🕐 Available: Mon-Sat, 8AM-8PM</p>
+</div>
+<a class='btn btn-whatsapp' href='https://wa.me/21693816607' style='margin-top:15px;padding:12px 24px;font-size:0.9rem'>Chat on WhatsApp</a>
+</div>
+
+</div>
+
+<!-- Footer Bottom -->
+<div class='footer-bottom'>
+<p>© 2025 Prophetic Guidance 2026. All Rights Reserved.</p>
+<p style='margin-top:10px'>
+<a href='/p/privacy-policy.html'>Privacy Policy</a> · 
+<a href='/p/disclaimer.html'>Disclaimer</a> · 
+<a href='/p/terms.html'>Terms of Service</a>
+</p>
+<p style='margin-top:15px;font-size:0.8rem;color:rgba(255,255,255,0.5)'>Our services provide spiritual guidance and support. They are not a substitute for professional medical, psychological, or financial advice.</p>
+</div>
+</div>
+</footer>
+
+<!-- JavaScript - Deferred for Performance -->
+<script defer='defer'>
+//<![CDATA[
+// Mobile Menu Toggle
+document.addEventListener('DOMContentLoaded', function() {
+  // Smooth scroll for anchor links
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+      e.preventDefault();
+      const target = document.querySelector(this.getAttribute('href'));
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
+  });
+  
+  // FAQ Accordion functionality
+  document.querySelectorAll('.faq-question').forEach(button => {
+    button.addEventListener('click', function() {
+      const item = this.parentElement;
+      const isActive = item.classList.contains('active');
+      document.querySelectorAll('.faq-item').forEach(faq => faq.classList.remove('active'));
+      if (!isActive) item.classList.add('active');
+    });
+  });
+  
+  // Animate elements on scroll
+  const observerOptions = { threshold: 0.1, rootMargin: '0px 0px -50px 0px' };
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('animate-fade-in-up');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, observerOptions);
+  
+  document.querySelectorAll('.revelation-card, .service-card, .testimonial-card').forEach(el => {
+    observer.observe(el);
+  });
+});
+//]]>
+</script>
+
+</body>
+</html>
